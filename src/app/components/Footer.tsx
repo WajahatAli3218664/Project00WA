@@ -75,7 +75,7 @@ function Footer() {
     <div className='bg-zinc-700 flex justify-center items-center'>
       <div className='lg:w-[1320px] flex justify-between items-center'>
         <div className='flex text-white gap-2 lg:text-[16px] text-[8px] inter font-normal items-center p-2'>
-            <p>Copyright © 2022 by Ayeman. All Rights Reserved.</p>
+            <p>Copyright © 2022 by Wajahat Ali. All Rights Reserved.</p>
         </div>
         <div>
           <ul className='flex md:gap-4 gap-1 text-white items-center'>
